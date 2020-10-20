@@ -1,5 +1,6 @@
 [
     {
+        "tarifLineId": 1,
         "tarifLineName": "Next",
         "speedFrom": 10,
         "speedTo": 100,
@@ -31,6 +32,7 @@
         ]
     },
     {
+        "tarifLineId": 2,
         "tarifLineName": "Next",
         "speedFrom": 10,
         "speedTo": 100,
