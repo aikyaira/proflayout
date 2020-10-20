@@ -3,10 +3,7 @@
         "tarifLineName": "Next",
         "speedFrom": 10,
         "speedTo": 100,
-        "adresses": [
-            "Наро-Фоминск ",
-            "Верея"
-        ],
+        "adresses": "Наро-Фоминск, Верея",
         "tarifs": [{
                 "name": "NEXT 400",
                 "speed": 10,
@@ -37,10 +34,7 @@
         "tarifLineName": "Next",
         "speedFrom": 10,
         "speedTo": 100,
-        "adresses": [
-            "Наро-Фоминск",
-            "Верея"
-        ],
+        "adresses": "Наро-Фоминск, Верея",
         "tarifs": [{
                 "name": "NEXT 400",
                 "speed": 10,
