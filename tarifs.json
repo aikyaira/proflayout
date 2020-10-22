@@ -1,5 +1,6 @@
 [
     {
+        "filterName": "categoryGpon",
         "tarifLineId": 1,
         "tarifLineName": "Next",
         "speedFrom": 10,
@@ -36,6 +37,7 @@
         ]
     },
     {
+        "filterName": "categoryGpon",
         "tarifLineId": 2,
         "tarifLineName": "Next",
         "speedFrom": 10,
