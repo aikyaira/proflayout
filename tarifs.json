@@ -52,7 +52,7 @@
     },
 	{
         "filterName": "categoryGpon",
-        "tarifLineId": 1,
+        "tarifLineId": 3,
         "tarifLineName": "Интел",
         "speedFrom": 50,
         "speedTo": 200,
