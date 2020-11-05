@@ -5,7 +5,7 @@
         "tarifLineName": "Gpon",
         "speedFrom": 50,
         "speedTo": 300,
-        "adresses": "ЖК &quot;ВЕСНА&quot;, ЖК &quot;ШКОЛЬНЫЙ&quot;, ЖК &quot;МЕДОВАЯ ДОЛИНА&quot;, П. СОВХОЗ ИМ. ЛЕНИНА",
+        "adresses": "ЖК &quot;ШКОЛЬНЫЙ&quot;, ЖК &quot;МЕДОВАЯ ДОЛИНА&quot;, П. СОВХОЗ ИМ. ЛЕНИНА",
         "tarifs": [{
             "tarifId": 1,
             "name": "Gpon 50",
