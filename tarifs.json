@@ -226,7 +226,7 @@
         }]
     },
     {
-        "filterName": "categoryGpon",
+        "filterName": "",
         "tarifLineId": 7,
         "tarifLineName": "Комфорт",
         "speedFrom": 50,
