@@ -390,7 +390,7 @@
             "options": "Подключение БЕСПЛАТНО.",
             "tarifActionDescription": ""
         }, {
-            "tarifId": 3,
+            "tarifId": 4,
             "name": "VskPON 300",
             "speed": 300,
             "price": 999,
@@ -433,7 +433,7 @@
             "options": "Количество каналов цифрового ТВ 152 канала (18 HD)",
             "tarifActionDescription": ""
         }, {
-            "tarifId": 3,
+            "tarifId": 4,
             "name": "PonTV 300",
             "speed": 300,
             "price": 1099,
