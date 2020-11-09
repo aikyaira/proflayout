@@ -13,7 +13,7 @@
             "speed": 30,
             "price": 800,
             "description": "",
-            "options": "",
+            "options": "Стоимость подключения рассчитывается индивидуально.",
             "tarifActionDescription": ""
         },{
             "tarifId": 2,
@@ -21,7 +21,7 @@
             "speed": 60,
             "price": 1000,
             "description": "",
-            "options": "",
+            "options": "Стоимость подключения рассчитывается индивидуально.",
             "tarifActionDescription": ""
         },{
             "tarifId": 3,
@@ -29,7 +29,7 @@
             "speed": 100,
             "price": 1500,
             "description": "",
-            "options": "",
+            "options": "Стоимость подключения рассчитывается индивидуально.",
             "tarifActionDescription": ""
         },{
             "tarifId": 4,
@@ -37,7 +37,7 @@
             "speed": 150,
             "price": 2000,
             "description": "",
-            "options": "",
+            "options": "Стоимость подключения рассчитывается индивидуально.",
             "tarifActionDescription": ""
         },{
             "tarifId": 5,
@@ -45,7 +45,7 @@
             "speed": 300,
             "price": 4000,
             "description": "",
-            "options": "",
+            "options": "Стоимость подключения рассчитывается индивидуально.",
             "tarifActionDescription": ""
         }
         
@@ -65,7 +65,7 @@
             "speed": 100,
             "price": 990,
             "description": "",
-            "options": "",
+            "options": "Стоимость подключения рассчитывается индивидуально.",
             "tarifActionDescription": ""
         },{
             "tarifId": 2,
@@ -73,7 +73,7 @@
             "speed": 200,
             "price": 1490,
             "description": "",
-            "options": "",
+            "options": "Стоимость подключения рассчитывается индивидуально.",
             "tarifActionDescription": ""
         }        
     ]
