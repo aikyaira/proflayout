@@ -1,0 +1,81 @@
+[{
+    "filterName": " ",
+    "tarifLineId": 14,
+    "tarifLineName": "Home",
+    "speedFrom": 30,
+    "speedTo": 300,
+    "adresses": "д. Александровка, д. Алексеевка, с. Атепцево, с. Атепцево СНТ Заречье, д. Афанасовка, д. Бекасово, д. Бекасово СНТ Яхонт, д. Васильчиново, д. Головково, д. Горчухино СНТ ЛЭП, д. Ивановка, с. Каменское, д. Клово, д. Клюково, СНТ Кукшево, д. Акулово, СНТ Акулово-2, д. Литвиново, д. Любаново, д. Любаново СНТ Заречье, пос. Киевский, д. Шеломово, СНТ Шеломово, КП Шеломово, КИЗ Аллея, СНТ Бекасово, СНТ Бекасово-2, СНТ Монтажник-81, СНТ Нива-2, СНТ Нива-3, ДПК Нара, СНТ Полянка, СНТ Южное, д. Плесенское, д. Пожитково, СНТ Международник, ПДСК Родник-Герцена, д. Слизнево, д. Смолино, г. Наро-Фомиснк СНТ Заречье, СНТ Скорость, пос. совхоза Архангельский, СНТ Орион, д. Таширово, СНТ Сетунька, СНТ Скорость",
+    "isAction": false,
+    "actionDescription": "",
+    "tarifs": [{
+            "tarifId": 1,
+            "name": "Home XS",
+            "speed": 30,
+            "price": 800,
+            "description": "",
+            "options": "",
+            "tarifActionDescription": ""
+        },{
+            "tarifId": 2,
+            "name": "Home S",
+            "speed": 60,
+            "price": 1000,
+            "description": "",
+            "options": "",
+            "tarifActionDescription": ""
+        },{
+            "tarifId": 3,
+            "name": "Home M",
+            "speed": 100,
+            "price": 1500,
+            "description": "",
+            "options": "",
+            "tarifActionDescription": ""
+        },{
+            "tarifId": 4,
+            "name": "Home L",
+            "speed": 150,
+            "price": 2000,
+            "description": "",
+            "options": "",
+            "tarifActionDescription": ""
+        },{
+            "tarifId": 5,
+            "name": "Home XL",
+            "speed": 300,
+            "price": 4000,
+            "description": "",
+            "options": "",
+            "tarifActionDescription": ""
+        }
+        
+    ]
+},{
+    "filterName": " ",
+    "tarifLineId": 15,
+    "tarifLineName": "Next Home",
+    "speedFrom": 100,
+    "speedTo": 200,
+    "adresses": "г. Верея, д. Веселево, д. Волченки, пос. Загородный, д. Загряжское, д. Каменка, СПК Полюшко, СНТ Карьер, СНТ Молодежный, КП Лесное, КП Луговое, д. Мельниково, г. Наро-Фоминск, СНТ Ёлочка, КП Николины Озера, КП Николины Сады, пос. Пионерский, СНТ Узоры, д. Самород, СНТ Виктория, д. Скугорово, СНТ Надежда, д. Ястребово, СПК Ветеран-Дубки, СПК Ветеран Звенящие кедры, СПК Ветеран Черемушки",
+    "isAction": false,
+    "actionDescription": "",
+    "tarifs": [{
+            "tarifId": 1,
+            "name": "Next Home 100",
+            "speed": 100,
+            "price": 990,
+            "description": "",
+            "options": "",
+            "tarifActionDescription": ""
+        },{
+            "tarifId": 2,
+            "name": "Next Home 200",
+            "speed": 200,
+            "price": 1490,
+            "description": "",
+            "options": "",
+            "tarifActionDescription": ""
+        }        
+    ]
+}
+]
