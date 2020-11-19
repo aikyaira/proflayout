@@ -4,7 +4,7 @@
         "tarifLineName": "Бизнес",
         "speedFrom": 5,
         "speedTo": 100,
-        "adresses": "юридических лиц",
+        "adresses": "Для юридических лиц",
         "isAction": false,
         "actionDescription": "",
         "tarifs": [{
