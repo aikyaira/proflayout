@@ -4,7 +4,7 @@
         "tarifLineName": "GPON",
         "speedFrom": 50,
         "speedTo": 300,
-        "adresses": "ЖК &quot;Школьный&quot;</br>ЖК &quot;Медовая долина&quot;</br>п. Совхоз им. Ленина",
+        "adresses": "ЖК &quot;Школьный&quot",
         "isAction": false,
         "actionDescription": "",
         "tarifs": [{
@@ -103,7 +103,7 @@
         "tarifLineName": "Stream",
         "speedFrom": 100,
         "speedTo": 200,
-        "adresses": "г. Наро-Фоминск:</br>ул. Латышская(15а, 115б)</br>ул. Маршла Куркоткина",
+        "adresses": "г. Наро-Фоминск:</br>ул. Латышская(15а, 15б)</br>ул. Маршла Куркоткина",
         "isAction": false,
         "actionDescription": "",
         "tarifs": [{
